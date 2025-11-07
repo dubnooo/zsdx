@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+}https://www.purina.ua/find-a-pet/dog-breeds$0
+
+h1 {
+    font-size: 40px;
+    color:#481677;
+}
+
+.inf{
+    font-size: 20px;
+    font-weight: 700;
+    color:#1524aa;
+}
+
+.gallery img {
+    opacity: 0.2;
+    width: 400px;
+    height: 400px;
+}
+
+.gallery img:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 400px;
+    height: 400px;
+    padding: 5px;
+    transition: 0.5s ease-out;
+}
+.galler img:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 600px;
+    height: 600px;
+    padding: 5px;
+    transition: 0.5s ease-out;
+}
+.galler img {
+    opacity: 0.2;
+    width: 400px;
+    height: 400px;
+}
+
+.gallery img:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 400px;
+    height: 400px;
+    padding: 5px;
+    transition: 0.5s ease-out;
+}
+
+
+.galle img:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 600px;
+    height: 400px;
+    padding: 5px;
+    transition: 0.5s ease-out;
+}
+
+.galle img {
+    opacity: 0.2;
+    width: 400px;
+    height: 400px;
+}
+
+main{
+   margin-left: 180px;
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 160px;
+    background-color: #82ffc5 ;
+    padding-top: 20px;
+}
+nav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #35007d;
+    display: block;
+    }
+nav a:hover {
+    color:  #e6385e;
+}
